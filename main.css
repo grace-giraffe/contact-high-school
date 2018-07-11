@@ -1,0 +1,13 @@
+body {
+    font-family: "Open Sans", sans-serif;
+  }
+  #header{
+    background-color:black;
+    color:white;
+  }
+  #odd{
+    background-color:grey;
+  }
+  #even{
+    background-color:aqua;
+  }
